@@ -4,7 +4,7 @@ public class Aplicacio {
 
     public static void main(String[] args) {
 
-        System.err.println("Hola holita vencinito.");
+        System.err.println("Hola holita vencinito...");
         
         System.out.println("Introdueix el nom del compte bancari 1: ");
         String nom = cLlegir.dato();
